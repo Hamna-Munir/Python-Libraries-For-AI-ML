@@ -47,13 +47,13 @@ Master **Pandas** for data manipulation, cleaning, and analysis — essential fo
 
 | Day | Topic | Status |
 |-----|--------|--------|
-| 8 | Intro & Import Data | ☐ |
-| 9 | iloc / loc | ☐ |
-| 10 | Filtering | ☐ |
-| 11 | Plot Series | ☐ |
-| 12 | Sorting | ☐ |
-| 13 | GroupBy | ☐ |
-| 14 | Merge / Pivot | ☐ |
+| 8 | Intro & Import Data | ✅ Complete |
+| 9 | iloc / loc | ✅ Complete |
+| 10 | Filtering | ✅ Complete |
+| 11 | Plot Series | ✅ Complete |
+| 12 | Sorting | ✅ Complete |
+| 13 | GroupBy | ✅ Complete |
+| 14 | Merge / Pivot | ✅ Complete |
 
 ---
 
