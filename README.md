@@ -9,7 +9,7 @@ This repository documents my 4-week journey to **master essential Python librari
 
 | Week | Library | Focus Area | Playlist Link |
 |------|----------|-------------|----------------|
-| 1️⃣ | **NumPy** | Numerical Computing | [NumPy Playlist](https://www.youtube.com/playlist?list=PLKnIA16_Rmvb-ToL3RQ_bwxG4_ND-0DT) |
+| 1️⃣ | **NumPy** | Numerical Computing | [NumPy Playlist](https://www.youtube.com/playlist?list=PLKnIA16_Rmvb-ToL3RQ_bwxG4_ND-0-DT) |
 | 2️⃣ | **Pandas** | Data Manipulation | [Pandas Playlist](https://www.youtube.com/playlist?list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy) |
 | 3️⃣ | **Matplotlib** | Data Visualization Basics | [Matplotlib Video 1](https://www.youtube.com/watch?v=XaKn_cKFlSY&list=PLEkC1_DzbPc6cFLC1uoDco7bszPKy4DnP&index=13&t=3s) |
 | 4️⃣ | **Seaborn** | Advanced Visualization | [Seaborn Video 1](https://www.youtube.com/watch?v=DWVLRhnuGqI&list=PLEkC1_DzbPc6cFLC1uoDco7bszPKy4DnP&index=14&pp=iAQB) |
