@@ -43,10 +43,10 @@ Understand **data visualization fundamentals** using Matplotlib to turn data int
 
 | Day | Topic | Status |
 |-----|--------|--------|
-| 15 | Basics 1 | ☐ |
-| 16 | Basics 2 | ☐ |
-| 17 | Advanced 1 | ☐ |
-| 18 | Advanced 2 | ☐ |
+| 15 | Basics 1 | ✅ Complete |
+| 16 | Basics 2 | ✅ Complete |
+| 17 | Advanced 1 | ✅ Complete |
+| 18 | Advanced 2 | ✅ Complete |
 
 ---
 
