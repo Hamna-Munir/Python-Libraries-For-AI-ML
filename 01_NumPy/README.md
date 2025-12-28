@@ -46,13 +46,13 @@ Learn the fundamentals of **NumPy** for numerical computing — the foundation o
 
 | Day | Topic | Status |
 |-----|--------|--------|
-| 1 | Introduction & Install | ☐ |
-| 2 | ND Arrays | ☐ |
-| 3 | Indexing | ☐ |
-| 4 | Operations | ☐ |
-| 5 | Boolean Indexing | ☐ |
-| 6 | Broadcasting | ☐ |
-| 7 | Revision | ☐ |
+| 1 | Introduction & Install | ✅ Complete |
+| 2 | ND Arrays | ✅ Complete |
+| 3 | Indexing | ✅ Complete |
+| 4 | Operations | ✅ Complete |
+| 5 | Boolean Indexing | ✅ Complete |
+| 6 | Broadcasting | ✅ Complete |
+| 7 | Revision | ✅ Complete |
 
 ---
 
