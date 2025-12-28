@@ -43,10 +43,10 @@ Master **Seaborn** for advanced statistical visualizations and aesthetic plots i
 
 | Day | Topic | Status |
 |-----|--------|--------|
-| 19 | Basics 1 | ☐ |
-| 20 | Basics 2 | ☐ |
-| 21 | Advanced 1 | ☐ |
-| 22 | Advanced 2 | ☐ |
+| 19 | Basics 1 | ✅ Complete |
+| 20 | Basics 2 | ✅ Complete|
+| 21 | Advanced 1 | ✅ Complete |
+| 22 | Advanced 2 | ✅ Complete |
 
 ---
 
