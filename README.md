@@ -127,10 +127,10 @@ jupyter
 
 | Week | Library | Status |
 |------|----------|--------|
-| Week 1 | NumPy | ☐ In Progress |
-| Week 2 | Pandas | ☐ Pending |
-| Week 3 | Matplotlib | ☐ Pending |
-| Week 4 | Seaborn | ☐ Pending |
+| Week 1 | NumPy | ✅ Complete |
+| Week 2 | Pandas | ✅ Complete |
+| Week 3 | Matplotlib | ✅ Complete |
+| Week 4 | Seaborn | ✅ Complete |
 
 ---
 
